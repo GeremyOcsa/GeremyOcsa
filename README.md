@@ -23,7 +23,9 @@
 
 # Stats 😎
 
-![GeremyOcsa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeremyOcsa&theme=prussian&hide_border=true)
+![GeremyOcsa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeremyOcsa&theme=gotham&hide_border=true)
+
+![GeremyOcsa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeremyOcsa&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <div align="center">
   <h1>Thanks You!</h1>
