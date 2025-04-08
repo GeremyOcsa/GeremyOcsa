@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFueXJ0dTFxZjFjMG1mcHJkMXFjaTY3N3Q0dWw1YWV0aW5kMXZtcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dWTi2yiBnSq1K2MkTE/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFueXJ0dTFxZjFjMG1mcHJkMXFjaTY3N3Q0dWw1YWV0aW5kMXZtcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dWTi2yiBnSq1K2MkTE/giphy.gif" width="200"/>
 
 </div>
 
 ![Header](./github-header-image.png)
 
-### Techs 💻
+# Techs 💻
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
