@@ -29,6 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeremyOcsa&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="GeremyOcsa's Top Languages">
 </p>
 
-<div align="center">
-  <h1>Thanks You!</h1>
-</div>
