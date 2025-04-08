@@ -21,6 +21,10 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+# Stats 😎
+
+![GeremyOcsa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeremyOcsa&theme=prussian&hide_border=true)
+
 <div align="center">
   <h1>Thanks You!</h1>
 </div>
